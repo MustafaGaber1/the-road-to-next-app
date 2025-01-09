@@ -93,7 +93,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Made By Mustafa Gaber
+          Made By Mustafa
         </a>
       </footer>
     </div>
